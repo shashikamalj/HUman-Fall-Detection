@@ -1,0 +1,16 @@
+{
+   "UserDetails":[
+      {
+         "ID":"SA01",
+         "Name":"Yella",
+         "Age":"26",
+         "Height":"165",
+         "Weight":"53",
+         "Gender":"F",
+         "Dependents":[
+            "chinmay94@gmail.com",
+            "iictechnovation@gmail.com"
+         ]
+      }
+   ]
+}
