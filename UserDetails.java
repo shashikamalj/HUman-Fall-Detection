@@ -14,7 +14,7 @@ public class UserDetails {
 		@SuppressWarnings("serial")
 		ArrayList<String> dependents =   new ArrayList<String>(){ 
 	            { 
-	                add("chinmay94@gmail.com"); 
+	                add("xxx@gmail.com"); 
 	                add("iictechnovation@gmail.com");
 	                //add("dsbvcwvs@hi2.in");
 	            } 
